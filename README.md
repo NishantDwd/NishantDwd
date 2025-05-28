@@ -37,29 +37,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-#### 🗄️ Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+#### 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### 🛠️ Tools & Platform
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 [CollabText](https://github.com/NishantDwd/CollabText) | Real-time collaborative text editor with user presence | React, Socket.io, Node.js, Express, PostgreSQL |
-| 🔗 [Portfolio Website](https://github.com/NishantDwd/portfolio) | Personal portfolio website to showcase my work | React, Tailwind CSS, DaisyUI |
-| 🔗 [Mini Compiler](https://github.com/NishantDwd/Mini-Compiler) | Compiler built using C/C++ to parse and analyze input | C, Lex, Yacc |
-
----
 
 ### 📊 GitHub Stats
 
