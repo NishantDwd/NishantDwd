@@ -55,9 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NishantDwd&show_icons=true&theme=tokyonight" alt="Nishant's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantDwd&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantDwd&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -67,9 +64,7 @@
 
 ### 🌐 Let's Connect
 
-- 🌍 Visit my [Portfolio](https://nishantdwd.github.io/)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/nishant-dwivedi-0a2b2b226/)
-- 📧 Email: nishantdwd@gmail.com
 
 ---
 
